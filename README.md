@@ -7,7 +7,7 @@
 
 ### 예시
 
-**프로그래머스 77484번 로또의 최고 순위와 최저 순위 문제**
+**[프로그래머스 77484번 로또의 최고 순위와 최저 순위 문제](https://school.programmers.co.kr/learn/courses/30/lessons/77484)**
 
 ```js
 function solution(lottos, win_nums) {
