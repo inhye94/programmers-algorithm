@@ -11,6 +11,10 @@
 
 ### [프로그래머스 340213번 [PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
 
+<img width="671" alt="스크린샷 2024-12-17 오후 9 47 23" src="https://github.com/user-attachments/assets/5858a206-4056-4c5d-a0ae-bdb50baf8f0b" />
+<img width="671" alt="스크린샷 2024-12-17 오후 9 47 32" src="https://github.com/user-attachments/assets/67877903-eda4-472f-8e0a-1609faecba11" />
+<img width="671" alt="스크린샷 2024-12-17 오후 9 47 40" src="https://github.com/user-attachments/assets/20803025-d6c2-4bc8-9e0a-f8341acb5f69" />
+
 #### solution
 
 ```js
